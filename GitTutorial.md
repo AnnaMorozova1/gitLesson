@@ -14,4 +14,7 @@
 
 3. Конфликты
 
+* Fast-Forwart
+* Auto-merge ORT
+
 4. Итоги
